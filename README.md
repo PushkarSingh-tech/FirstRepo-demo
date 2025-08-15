@@ -1,4 +1,4 @@
 # FirstRepo-demo
 This is my first Git Repository
 <br>
-Author - Pushkar Singh
+Author - Pushkar S
